@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=get-py)
 
-<div align='center'>
-📚 Tech 📚
+
+<br/>
+
+
+## 📚 Tech 📚
   
 Techs that I've used
   
@@ -18,9 +22,10 @@ Techs that I've used
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+<br/>
 
   
-🛠 Tool 🚀
+## 🛠 Tool 🚀
   
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,9 +34,9 @@ Techs that I've used
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-</div>
 
-⚡🔥         
+
+<!-- ⚡🔥          -->
 
 
 <!--
